@@ -6,7 +6,7 @@ import java.io.FileWriter;
 import java.util.Scanner;
 
 /**
- * Calculates the factorial of value of a number recursively.
+ * Calculates the factorial of a number recursively.
  *
  * @author Christopher Di Bert
  * @version 1.0
